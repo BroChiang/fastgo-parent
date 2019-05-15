@@ -1,0 +1,23 @@
+server:
+  port: 6001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: fastgo-config-server:6001.com
+    prefer-ip-address: true
+spring:
+  #profiles:
+    #active: native #读取本地配置
+  application:
+    name: FASTGO-CONFIG-SERVER
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: F:/fastgo-config #本地配置所在的目录
+#        git:
+#          uri: https://github.com/BroChiang/fastgo-config.git
+#          username: BroChiang
+#          password: TIRAMISUqndwz221
