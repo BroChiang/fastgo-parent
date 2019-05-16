@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fastgo-basic-parent/basic-utils/basic-utils.iml" filepath="$PROJECT_DIR$/fastgo-basic-parent/basic-utils/basic-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-basic-parent/fastgo-basic-parent.iml" filepath="$PROJECT_DIR$/fastgo-basic-parent/fastgo-basic-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-config-server/fastgo-config-server.iml" filepath="$PROJECT_DIR$/fastgo-config-server/fastgo-config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-eureka-server/fastgo-eureka-server.iml" filepath="$PROJECT_DIR$/fastgo-eureka-server/fastgo-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastgo-parent.iml" filepath="$PROJECT_DIR$/fastgo-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-plat-parent/fastgo-plat-parent.iml" filepath="$PROJECT_DIR$/fastgo-plat-parent/fastgo-plat-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-zuul-gateway/fastgo-zuul-gateway.iml" filepath="$PROJECT_DIR$/fastgo-zuul-gateway/fastgo-zuul-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/fastgo-plat-parent/plat-interface/plat-interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fastgo-plat-parent/plat-service/plat-service.iml" filepath="$PROJECT_DIR$/fastgo-plat-parent/plat-service/plat-service.iml" />
     </modules>
   </component>
 </project>

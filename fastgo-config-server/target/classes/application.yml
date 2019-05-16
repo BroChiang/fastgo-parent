@@ -16,8 +16,8 @@ spring:
     config:
       server:
         native:
-          search-locations: F:/fastgo-config #本地配置所在的目录
-#        git:
-#          uri: https://github.com/BroChiang/fastgo-config.git
-#          username: BroChiang
-#          password: TIRAMISUqndwz221
+#          search-locations: F:/fastgo-config #本地配置所在的目录
+        git:
+          uri: https://github.com/BroChiang/fastgo-config.git
+          username: BroChiang
+          password: TIRAMISUqndwz221
